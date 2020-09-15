@@ -4,11 +4,11 @@
   "private": true,
   "devDependencies": {
     "concurrently": "4.1.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^3.4.3"
   },
   "dependencies": {
     "autoprefixer-stylus": "0.14.0",
-    "firebase": "^7.6.0",
+    "firebase": "^7.20.0",
     "prop-types": "^15.6.0",
     "re-base": "4.0.0",
     "react": "^16.6.3",
